@@ -14,27 +14,17 @@ prompt-sync (para entrada de dados via terminal)
 💻 Como executar
 1️⃣ Clone o repositório:
 
-bash
-Copiar
-Editar
+
 git clone https://github.com/Renanzzn7/matriz.git
 2️⃣ Acesse o diretório:
 
-bash
-Copiar
-Editar
 cd matriz
 3️⃣ Instale as dependências:
 
-bash
-Copiar
-Editar
+
 npm install
 4️⃣ Execute um arquivo desejado:
 
-bash
-Copiar
-Editar
 ts-node nomeDoArquivo.ts
 Lembre-se de substituir nomeDoArquivo.ts pelo arquivo específico que deseja rodar.
 
